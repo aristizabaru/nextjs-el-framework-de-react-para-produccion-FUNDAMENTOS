@@ -13,6 +13,7 @@ El proyecto desarrollado a continuación explora los siguientes conceptos de Nex
 - Uso de ficheros nombrados entre paréntesis (public) como agrupadores: **no generan rutas adicionales**
 - Uso básico del custom hook de NextJs `usePathname()`
 - Uso básico del type Metadata para crear objetos en los page.tsx responsables de gestionar el SEO de las páginas
+- Diferencia entre componentes del lado del servidor y del lado del cliente
 
 ## Requerimientos
 
